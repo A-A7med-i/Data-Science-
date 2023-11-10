@@ -28,6 +28,17 @@ A box plot is a graphical representation of a dataset's distribution. It provide
 
 ![Box Plot](https://1.bp.blogspot.com/-6nZ1hfg5epg/XaQtELb52SI/AAAAAAAAGRI/UDTW0Kq9bWIiH-bRcN80l8Cv3TppoPt2gCLcBGAsYHQ/w1200-h630-p-k-no-nu/boxplot.png)
 
+## Interactive Plots
+
+To interact with the plots and explore the dataset, it is recommended to use Jupyter Notebook. Follow the steps below to install and set up the notebook:
+
+1. Install Jupyter Notebook by following the official installation guide: [Jupyter Notebook Installation](https://jupyter.org/install).
+2. Clone or download this repository to your local machine.
+3. Navigate to the project directory in the command line/terminal.
+4. Launch Jupyter Notebook by running the following command:
+
+   ```shell
+   jupyter notebook
 
 ## License
 The dataset is subject to the terms and conditions provided by Kaggle. Please refer to the dataset's license for more information.
